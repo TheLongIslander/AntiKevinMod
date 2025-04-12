@@ -1,0 +1,56 @@
+[23:09:30] [main/INFO]: Setting user: Player997
+[23:09:31] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:09:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Anti-Kevin Mod
+[23:09:36] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[23:09:36] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[23:09:36] [Sound Library Loader/INFO]: Sound engine started
+[23:09:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Anti-Kevin Mod
+[23:09:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:09:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:09:37] [Sound Library Loader/INFO]: Sound engine started
+[23:09:49] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[23:09:49] [Server thread/INFO]: Generating keypair
+[23:09:50] [Server thread/INFO]: Preparing start region for level 0
+[23:09:50] [Server thread/WARN]: Wrong location! EntityVillager['Villager'/146, l='New World', x=1000.00, y=63.00, z=1000.00] (at 62, 62 instead of 15, 11)
+[23:09:50] [Server thread/WARN]: Wrong location! EntityVillager['Villager'/147, l='New World', x=1000.00, y=63.00, z=1000.00] (at 62, 62 instead of 15, 11)
+[23:09:50] [Server thread/WARN]: Wrong location! EntityVillager['Villager'/148, l='New World', x=1000.00, y=63.00, z=1000.00] (at 62, 62 instead of 15, 11)
+[23:09:50] [Server thread/WARN]: Wrong location! EntityVillager['Villager'/149, l='New World', x=1000.00, y=63.00, z=1000.00] (at 62, 62 instead of 15, 11)
+[23:09:50] [Server thread/WARN]: Wrong location! EntityVillager['Villager'/150, l='New World', x=1000.00, y=63.00, z=1000.00] (at 62, 62 instead of 15, 12)
+[23:09:51] [Server thread/INFO]: Changing view distance to 12, from 10
+[23:09:51] [Server thread/INFO]: Player997[local:E:c1562a70] logged in with entity id 292 at (197.20404664076952, 81.27986694169724, -103.6236602580401)
+[23:09:51] [Server thread/INFO]: Player997 joined the game
+[23:09:54] [Server thread/INFO]: Saving and pausing game...
+[23:09:54] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:09:54] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:09:54] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:09:59] [Server thread/INFO]: Saving and pausing game...
+[23:09:59] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:09:59] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:09:59] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:10:04] [Server thread/INFO]: Player997 has just earned the achievement [Taking Inventory]
+[23:10:04] [Client thread/INFO]: [CHAT] Player997 has just earned the achievement [Taking Inventory]
+[23:10:41] [Server thread/INFO]: [Player997: Set the time to 1000]
+[23:10:41] [Client thread/INFO]: [CHAT] Set the time to 1000
+[23:11:07] [Client thread/INFO]: [CHAT] Corner 2 set to (215, 65, -68)
+[23:11:18] [Client thread/INFO]: [CHAT] Corner 1 set to (228, 73, -82)
+[23:11:18] [Client thread/INFO]: [CHAT] Teleport zone defined.
+[23:11:34] [Client thread/INFO]: [CHAT] Teleport destination set to (219, 66, -96)
+[23:12:51] [Client thread/INFO]: [CHAT] /killVillager, /kill
+[23:12:58] [Client thread/INFO]: [CHAT] /killVillager, /kill
+[23:13:06] [Client thread/INFO]: [CHAT] /killVillager, /kill
+[23:13:11] [Client thread/INFO]: [CHAT] Usage: /killVillager x1 y1 z1 x2 y2 z2
+[23:13:27] [Client thread/INFO]: [CHAT] Killed 10 villager(s).
+[23:13:53] [Client thread/INFO]: [CHAT] Killed 5 villager(s).
+[23:14:45] [Client thread/INFO]: [CHAT] Teleport zone cleared.
+[23:15:13] [Client thread/INFO]: [CHAT] Killed 63 villager(s).
+[23:16:00] [Server thread/INFO]: Saving and pausing game...
+[23:16:00] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:16:00] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:16:00] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:16:01] [Server thread/INFO]: Stopping server
+[23:16:01] [Server thread/INFO]: Saving players
+[23:16:01] [Server thread/INFO]: Saving worlds
+[23:16:01] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:16:01] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:16:01] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:16:03] [Client thread/INFO]: Stopping!

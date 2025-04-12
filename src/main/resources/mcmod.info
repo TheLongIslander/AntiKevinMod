@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "antikevin",
+    "name": "Anti-Kevin Mod",
+    "description": "Teleport villagers away from danger with your trusty Staff of Anti Kevin. Features custom ore, tools, teleport zones, and GUI support.",
+    "version": "1.1",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["TheLongIslander"],
+    "credits": "Made with Forge. Thanks to the Minecraft Forge team, and anyone who dislikes Kevin.",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
